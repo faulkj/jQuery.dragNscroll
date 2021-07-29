@@ -8,7 +8,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/faulkj/fisforformat.git"
+      "url": "git+https://github.com/faulkj/jQuery.dragNscroll.git"
    },
    "keywords": [
       "jQuery",
@@ -17,7 +17,7 @@
    "author": "Joshua Faulkenberry <j@joshuafaulkenberry.com> (https://joshuafaulkenberry.com/)",
    "license": "Kopimi",
    "bugs": {
-      "url": "https://github.com/faulkj/dragNscroll/issues"
+      "url": "https://github.com/faulkj/jQuery.dragNscroll/issues"
    },
-   "homepage": "https://github.com/faulkj/dragNscroll#readme"
+   "homepage": "https://github.com/faulkj/jQuery.dragNscroll#readme"
 }
