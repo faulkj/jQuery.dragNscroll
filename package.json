@@ -1,7 +1,7 @@
 {
-   "name": "dragNscroll",
+   "name": "jquery.dragnscroll",
    "version": "1.0.0",
-   "description": "A jQuery plugin that provides web pages or any scrollable page element with scrolling functionality that mimics touch scrolling on smartphones, including the ability to "throw" the content you are dragging.",
+   "description": "A jQuery plugin that provides web pages or any scrollable page element with scrolling functionality that mimics touch scrolling on smartphones, including the ability to \"throw\" the content you are dragging.",
    "main": "dist/jquery.dragnscroll.js",
    "scripts": {
       "test": "mocha"
